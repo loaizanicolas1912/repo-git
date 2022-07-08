@@ -1,3 +1,3 @@
-print("Hola")
-print("Hola2")
-print("Hola3")
+def suma(a,b):
+    c  = a+b
+    return c
