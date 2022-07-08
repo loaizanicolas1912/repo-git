@@ -1,4 +1,3 @@
 ## Repo practicing
 
-
-Nuevo repositorio
+Estos cambios seran nuevos: es un curso
