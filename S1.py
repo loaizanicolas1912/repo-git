@@ -7,3 +7,5 @@ def suma3(a,b):
     return c
 
 print("f")
+
+print("wenas 2")
